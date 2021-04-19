@@ -1,0 +1,12 @@
+/Users/hanans/Desktop/Tuwaiq/hws/WEEK2/hw_2/hw_2/bin/Debug/netcoreapp3.1/hw_2.deps.json
+/Users/hanans/Desktop/Tuwaiq/hws/WEEK2/hw_2/hw_2/bin/Debug/netcoreapp3.1/hw_2.runtimeconfig.json
+/Users/hanans/Desktop/Tuwaiq/hws/WEEK2/hw_2/hw_2/bin/Debug/netcoreapp3.1/hw_2.runtimeconfig.dev.json
+/Users/hanans/Desktop/Tuwaiq/hws/WEEK2/hw_2/hw_2/bin/Debug/netcoreapp3.1/hw_2.dll
+/Users/hanans/Desktop/Tuwaiq/hws/WEEK2/hw_2/hw_2/bin/Debug/netcoreapp3.1/hw_2.pdb
+/Users/hanans/Desktop/Tuwaiq/hws/WEEK2/hw_2/hw_2/obj/Debug/netcoreapp3.1/hw_2.csprojAssemblyReference.cache
+/Users/hanans/Desktop/Tuwaiq/hws/WEEK2/hw_2/hw_2/obj/Debug/netcoreapp3.1/hw_2.AssemblyInfoInputs.cache
+/Users/hanans/Desktop/Tuwaiq/hws/WEEK2/hw_2/hw_2/obj/Debug/netcoreapp3.1/hw_2.AssemblyInfo.cs
+/Users/hanans/Desktop/Tuwaiq/hws/WEEK2/hw_2/hw_2/obj/Debug/netcoreapp3.1/hw_2.csproj.CoreCompileInputs.cache
+/Users/hanans/Desktop/Tuwaiq/hws/WEEK2/hw_2/hw_2/obj/Debug/netcoreapp3.1/hw_2.dll
+/Users/hanans/Desktop/Tuwaiq/hws/WEEK2/hw_2/hw_2/obj/Debug/netcoreapp3.1/hw_2.pdb
+/Users/hanans/Desktop/Tuwaiq/hws/WEEK2/hw_2/hw_2/obj/Debug/netcoreapp3.1/hw_2.genruntimeconfig.cache
